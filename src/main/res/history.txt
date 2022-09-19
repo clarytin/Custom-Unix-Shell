@@ -1,0 +1,30 @@
+echo pi"z"za
+cd comp0010
+echo abc | cut -b -1,2-
+echo aaa > 2.txt; cat 1.txt 2.txt | uniq -i
+echo abc | cut -b -1,2-
+echo abc | cut -b 1
+EXIG
+echo aaa > 2.txt; cat 1.txt 2.txt | uniq -i
+echo aaa > 2.txt; cat 1.txt 2.txt | uniq -i
+echo aaa > 2.txt; cat aaa.txt 2.txt | uniq -i
+head pom.xml
+head pom.xml
+head
+ls
+ls
+echo clary
+head pom.xml
+find -name file.txt
+echo abc | cut -b -1,2-
+echo abc | cut -b 1
+echo abc | cut -b 1
+echo abc | cut -b 1
+echo abc | cut -b 1
+echo clary
+echo clary
+echo clary
+ls
+echo eileen
+cd
+echo julia
